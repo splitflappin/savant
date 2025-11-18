@@ -70,3 +70,5 @@ swing_list = [
     "foul_tip",
     "swinging_strike_blocked",
 ]
+
+ball_in_play_list = ["S"]
