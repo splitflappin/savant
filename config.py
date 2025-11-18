@@ -49,3 +49,24 @@ plate_appearance_list = [
     "sac_fly_double_play",
     "triple_play",
 ]
+
+swinging_strike_list = [
+    "swinging_strike",
+    "swinging_strike_blocked",
+    "foul_tip",
+]
+
+whiff_list = [
+    "swinging_strike",
+    "swinging_strike_blocked",
+]
+
+called_stike_list = ["called_strike"]
+
+swing_list = [
+    "foul",
+    "hit_into_play",
+    "swinging_strike",
+    "foul_tip",
+    "swinging_strike_blocked",
+]
